@@ -12,7 +12,7 @@ Busco utilizar as ferramentas de Data Science, (em especial a linguagem Python) 
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Análise da Criminalidade no Rio de Janeiro](https://bit.ly/2tkCTc9)
+* **PROJETO 1:** [Análise Exploratória da Criminalidade no Rio de Janeiro](https://bit.ly/2tkCTc9)
 * **PROJETO 2:**  [Em breve]()
 
 ---
