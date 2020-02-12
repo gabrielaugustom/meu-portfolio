@@ -1,5 +1,9 @@
 [![author](https://img.shields.io/badge/author-gabrielaugustom-red.svg)](https://www.linkedin.com/in/gabriel-augusto-machado) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gabrielaugustom/meu-portfolio)
 
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Portfólio de Data Science
 
 Analiso projetos que aplicam Machine Learning, Data Science, Inteligência Artificial e Analytics. Utilizando as ferramentas, Google Colab, Python, Jupyter Notebook, Machine Learning, SQL e Banco de Dados. Desenvolvo sites responsivos utilizando conceito de Mobile First onde o foco principal é entregar uma melhor visibilidade de Sites em dispositivos portáteis, utilizando o BootStrap 4.
