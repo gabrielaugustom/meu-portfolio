@@ -18,6 +18,7 @@ Busco utilizar as ferramentas de Data Science, (em especial a linguagem Python) 
 
 * **PROJETO 1:** [Análise Exploratória da Criminalidade no Rio de Janeiro](https://bit.ly/2tkCTc9)
 * **PROJETO 2:**  [Análise Exploratória do Airbnb sobre Santiago - Chile](https://bit.ly/31P9Ha0)
+* **PROJETO 3:**  [NLP para analisar Bruno van Enck, CEO da Barbearia Corleone](https://bit.ly/39xvSnP)
 
 ---
 
