@@ -16,6 +16,7 @@ Busco utilizar as ferramentas de Data Science, (em especial a linguagem Python) 
 
 ## Projetos de Data Science
 
+* **PROJETO 0:** [NLP da LIVE do Atila sobre Coronavírus no Brasil](https://bit.ly/2WHD3H2)
 * **PROJETO 1:** [Análise Exploratória da Criminalidade no Rio de Janeiro](https://bit.ly/2tkCTc9)
 * **PROJETO 2:**  [Análise Exploratória do Airbnb sobre Santiago - Chile](https://bit.ly/31P9Ha0)
 * **PROJETO 3:**  [NLP para analisar Bruno van Enck, CEO da Barbearia Corleone](https://bit.ly/39xvSnP)
@@ -27,8 +28,8 @@ Busco utilizar as ferramentas de Data Science, (em especial a linguagem Python) 
 
 Sou Gabriel Augusto Machado, Cientista da Computação em formação, um eterno apaixonado pelos estudos, em Anápolis-GO. Também sou o autor da empresa *GAMA*, focado em Data Science, Deep Learning, Pyhton e Desenvolvimento Web.
 
-* Graduação com ínicio na Universidade Federal de Goiás, UFG e sendo concluida na Anhanguera.
+* Graduação com ínicio na Universidade Federal de Goiás, UFG.
 * Sistema de Estoque e Vendas com PHP 7
 * Habilidades e Oportunidades para a Carreira de Desenvolvedor - Google
 * Marketing Digital - Google
-* Criando Sites para Igreja - Projetos Multi Integrados.
+* Criando Sites para Igreja.
